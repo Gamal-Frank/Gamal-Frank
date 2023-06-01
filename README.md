@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frank
 - 👀 I’m interested in writing and coding
-- 🌱 I’m currently learning fornt end web development 
+- 🌱 I’m currently learning front end web development 
 - 📫 How to reach me ...
   - my facebook account : 
     - https://www.facebook.com/frank.redfield.923171/
